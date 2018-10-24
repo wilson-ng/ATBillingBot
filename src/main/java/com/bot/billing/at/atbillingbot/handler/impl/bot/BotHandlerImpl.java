@@ -1,4 +1,4 @@
-package com.bot.billing.at.atbillingbot.handler.impl;
+package com.bot.billing.at.atbillingbot.handler.impl.bot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
